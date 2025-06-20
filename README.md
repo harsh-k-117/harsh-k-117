@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>👋 Hey! I'm Harsh Kulkarni<br>🎓 BTech student in Artificial Intelligence & Data Science<br>☕ Coffee addict who codes better with a cup in hand...
 
 
