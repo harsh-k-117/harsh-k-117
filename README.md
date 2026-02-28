@@ -7,4 +7,4 @@ Hey! I'm Harsh Kulkarni <br>- Data Science student who loves to work with puzzle
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/harsh-kulkarni-22869a318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulkarniharsh117@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kulkarni-22869a318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulkarniharsh117@gmail.com) 
