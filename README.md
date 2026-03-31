@@ -10,7 +10,7 @@ Hey! I'm **Harsh Kulkarni**
 
 </div>
 
----
+<br>
 
 <h1 align="center">💻 Tech Stack ~ </h1><br>
 
@@ -60,7 +60,7 @@ Hey! I'm **Harsh Kulkarni**
 
 </table>
 
----
+<br>
 
 <h1 align="center">🌐 Connect with Me ~ </h1> 
 
