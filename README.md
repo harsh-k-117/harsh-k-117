@@ -1,18 +1,18 @@
-# 💫 About Me:
+<h2 align="center">💫 About Me ~</h2>
 
 <div align="center">
 
 Hey! I'm **Harsh Kulkarni**
 
-• Data Science student who loves to work with puzzles
-• Learning Web Dev as a Side Quest
-• I code best with a cup of coffee
+• AI & Data Science student <br>
+• Learning Web Dev as a Side-Quest <br>
+• I code best with a cup of coffee <br>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+<h2 align="center">💻 Tech Stack ~ </h2><br>
 
 <table align="center">
 
@@ -60,9 +60,9 @@ Hey! I'm **Harsh Kulkarni**
 
 </table>
 
-<br>
+---
 
-## 🌐 Socials
+<h2 align="center">🌐 Connect with Me ~ </h2> 
 
 <table align="center">
 
