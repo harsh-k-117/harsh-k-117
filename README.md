@@ -1,9 +1,88 @@
 # 💫 About Me:
-Hey! I'm Harsh Kulkarni<br>- Data Science student who loves to work with puzzles<br>- Learning Web Dev as a Side Quest<br>- I code best with a cup of coffee
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) <br>
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-kulkarni-22869a318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulkarniharsh117@gmail.com) 
+Hey! I'm **Harsh Kulkarni**
+
+• Data Science student who loves to work with puzzles
+• Learning Web Dev as a Side Quest
+• I code best with a cup of coffee
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<table align="center" width="90%">
+
+<tr align="center">
+<th width="25%">Category</th>
+<th width="75%">Technologies</th>
+</tr>
+
+<tr align="center">
+<td><b>🎨 Frontend</b></td>
+<td>
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/> HTML5</span> &nbsp;&nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18"/> CSS3</span> &nbsp;&nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React</span>
+</td>
+</tr>
+
+<tr align="center">
+<td><b>⚙️ Backend & Database</b></td>
+<td>
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> Node.js</span> &nbsp;&nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18"/> Express.js</span> &nbsp;&nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB</span>
+</td>
+</tr>
+
+<tr align="center">
+<td><b>🛠 Tools</b></td>
+<td>
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> Git</span> &nbsp;&nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> GitHub</span> &nbsp;&nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18"/> VS Code</span>
+</td>
+</tr>
+
+<tr align="center">
+<td><b>🧠 Languages</b></td>
+<td>
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="18"/> C++</span> &nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/> Java</span> &nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18"/> Python</span> &nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript</span> &nbsp;
+<span style="display:inline-flex;align-items:center;gap:5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18"/> TypeScript</span>
+</td>
+</tr>
+
+</table>
+
+<br>
+
+## 🌐 Socials
+
+<table align="center" width="45%">
+
+<tr align="center">
+<th width="50%">Platform</th>
+<th width="50%">Link</th>
+</tr>
+
+<tr align="center">
+<td align="center">
+<span style="display:inline-flex;align-items:center;gap:6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> LinkedIn
+</span>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/harsh-kulkarni-22869a318/">Visit Profile</a>
+</td>
+
+</tr>
+
+</table>
