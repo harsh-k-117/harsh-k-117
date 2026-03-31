@@ -4,9 +4,9 @@
 
 Hey! I'm **Harsh Kulkarni**
 
-• AI & Data Science student <br>
-• Learning Web Dev as a Side-Quest <br>
-• I code best with a cup of coffee 
+• A.I. & Data Science student <br>
+• Learning Web Development as side-quest <br>
+• I code best with a cup of coffee ☕
 
 </div>
 
