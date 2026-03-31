@@ -14,11 +14,11 @@ Hey! I'm **Harsh Kulkarni**
 
 # 💻 Tech Stack
 
-<table align="center" width="90%">
+<table align="center">
 
 <tr align="center">
-<th width="25%">Category</th>
-<th width="75%">Technologies</th>
+<th>Category</th>
+<th>Technologies</th>
 </tr>
 
 <tr align="center">
@@ -65,11 +65,11 @@ Hey! I'm **Harsh Kulkarni**
 
 ## 🌐 Socials
 
-<table align="center" width="45%">
+<table align="center">
 
 <tr align="center">
-<th width="50%">Platform</th>
-<th width="50%">Link</th>
+<th>Platform</th>
+<th>Link</th>
 </tr>
 
 <tr align="center">
