@@ -1,4 +1,4 @@
-<h2 align="center">💫 About Me ~</h2>
+<h1 align="center">💫 About Me ~</h1>
 
 <div align="center">
 
@@ -12,7 +12,7 @@ Hey! I'm **Harsh Kulkarni**
 
 ---
 
-<h2 align="center">💻 Tech Stack ~ </h2><br>
+<h1 align="center">💻 Tech Stack ~ </h1><br>
 
 <table align="center">
 
@@ -62,7 +62,7 @@ Hey! I'm **Harsh Kulkarni**
 
 ---
 
-<h2 align="center">🌐 Connect with Me ~ </h2> 
+<h1 align="center">🌐 Connect with Me ~ </h1> 
 
 <table align="center">
 
