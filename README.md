@@ -1,7 +1,7 @@
 # 💫 About Me
 I'm a Data Science student who enjoys working with data and numbers.
 
-Learning Web development (MERN stack) as a side quest.
+Learning Web development as a side quest.
 
 You'll usually find me with a coffee or an energy drink. 
 <br><br>
